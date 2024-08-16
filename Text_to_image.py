@@ -42,7 +42,7 @@ def text_to_image_local(prompts):
         #         t.join()
 
 def text_to_image_meta(prompts):
-        ai = MetaAI(fb_email="8920913799", fb_password="saeid9013")
+        ai = MetaAI(fb_email=email, fb_password=password)
         global image_paths
         print("Gerating images.....")
         i = 0
