@@ -31,6 +31,8 @@ Create these folders with same name:
 ## 6. Model
 Download a speech to text model from vosk and put unzipped folder in the models folder and use the path for model_path in Speech_to_word_timestamps.py file.
 
+## 7. Run 
+Run the main.py and give the bgm prompt and voiceover gender and wait, output will be a result.mp4 file.
 
 
 
