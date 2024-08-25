@@ -22,6 +22,15 @@ Link for the steps: https://www.editframe.com/guides/how-to-install-and-start-us
 ## 4. Input
 Create a csv file with "voiceover" and "image" column. "voiceover" contains the line of story and "image" contains the prompt for the image to use with that line of story.
 
-## 5.
+## 5. Folders
+Create these folders with same name:
+1. Img
+2. Output
+3. models
+
+## 6. Model
+Download a speech to text model from vosk and put unzipped folder in the models folder and use the path for model_path in Speech_to_word_timestamps.py file.
+
+
 
 
